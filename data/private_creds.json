@@ -1,0 +1,7 @@
+{
+    "CLIENT_ID" : "Refer Quizlet api dashboard : https://quizlet.com/api-dashboard",
+    "SECRET_KEY" : "Refer Quizlet api dashboard : https://quizlet.com/api-dashboard",
+    "REDIRECT_URI" : "Refer Quizlet api dashboard : https://quizlet.com/api-dashboard",
+    "USERNAME" : "Any quizlet username",
+    "PASSWORD" : "Password for above user account"
+}
